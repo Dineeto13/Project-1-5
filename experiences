@@ -1,0 +1,21 @@
+
+          
+<!-- <ol> 
+<li>Big Mec</li>
+</ol>
+</section>
+</aside>
+-->
+  
+<!-- <footer>
+Last updated on September 28<sup>th</sup>
+<br>
+<a href="mailto:armando_zelaya@elcamino.edu">Email me</a>
+</footer>
+-->
+  <div class="mt-5 p-4 bg-dark text-white text-center">
+    <p>Last updated on November 22<sup>nd</sup></p>
+  </div>
+
+</body>
+</html>
